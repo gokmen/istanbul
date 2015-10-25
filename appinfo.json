@@ -1,0 +1,23 @@
+{
+  "uuid": "c20b4105-76a2-4407-a866-739d56ce4218",
+  "shortName": "Istanbul",
+  "longName": "Istanbul",
+  "companyName": "Gokmen Goksel",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["basalt", "chalk"],
+  "watchapp": {
+    "watchface": true
+  },
+  "appKeys": {},
+  "resources": {
+    "media": [
+      {
+        "menuIcon": true,
+        "type": "png",
+        "name": "IMAGE_MENU_ICON",
+        "file": "menu_icon.png"
+      }
+    ]
+  }
+}
