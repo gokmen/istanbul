@@ -4,4 +4,6 @@ Istanbul is a yet simple watch face which is mainly focused on the second hand a
 
 ![](resources/screencast.gif)
 
+Pebble app store link: http://apps.getpebble.com/en_US/application/562cf0d66edde43084000091
+
 Thanks to https://github.com/pebble-examples/ks-clock-face example.
